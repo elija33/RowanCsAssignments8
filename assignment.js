@@ -1,3 +1,4 @@
+$(function() {
 var library = [
   {
     title: 'Bill Gates',
@@ -27,4 +28,4 @@ for (var i = 0; i < library.length; i++)
   else{
     console.log("You still need to read " + book);
   }
-}
+});
