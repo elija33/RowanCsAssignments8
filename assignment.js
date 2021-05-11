@@ -1,4 +1,4 @@
-$(function() {
+(function() {
 var library = [
   {
     title: 'Bill Gates',
